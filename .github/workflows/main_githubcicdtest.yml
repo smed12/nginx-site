@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'githubcicdtest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2871B912936E4EBDB83D775585272124 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6E3A747CF0D46929EE14A6D977C73A3 }}
           package: .
